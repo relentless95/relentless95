@@ -1,8 +1,8 @@
 ### Hi 👋🏾, I am marc.
-- I’m an aspiring web developer, currently gaining experience by doing freelance work.  
-- 🧩Interested in all things Web.
-- 👨🏾‍💻 Currently deepening my knowledge of react and mastering TypeScript.
-- 🌍 Looking to collaborate on beautiful, engaging and functional projects for the internet.
+### I’m an aspiring web developer, currently gaining experience by doing freelance work.  
+###🧩Interested in all things Web.
+### 👨🏾‍💻 Currently deepening my knowledge of react and mastering TypeScript.
+### 🌍 Looking to collaborate on beautiful, engaging and functional projects for the internet.
 
 
 <!--
