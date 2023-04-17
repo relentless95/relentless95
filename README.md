@@ -1,4 +1,4 @@
-##### Hi there👋🏾,
+#### Hi there👋🏾,
 - 🙋🏾‍♂️ I’m an aspiring web developer, currently gaining experience by doing freelance work.  
 - 🧩 Interested in all things Web.
 - 👨🏾‍💻 Currently deepening my knowledge of react and mastering TypeScript.
