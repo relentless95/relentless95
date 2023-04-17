@@ -1,4 +1,9 @@
-### Hi there 👋🏾
+### Hi 👋🏾, I am marc.
+I’m an aspiring web developer, currently gaining experience by doing freelance work.  
+🧩Interested in all things Web.
+👨🏾‍💻 Currently deepening my knowledge of react and mastering TypeScript.
+🌍 Looking to collaborate on beautiful, engaging and functional projects for the internet.
+
 
 <!--
 **relentless95/relentless95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
