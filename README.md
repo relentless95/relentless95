@@ -1,5 +1,5 @@
 #### Hi there👋🏾,
-- 🙋🏾‍♂️ I’m an aspiring Web developer, currently gaining experience by doing freelance work.  
+-  I’m an aspiring Web developer, currently gaining experience by doing freelance work.  
 - 🧩 Interested in all things Web.
 - 👨🏾‍💻 Currently deepening my knowledge of React and mastering TypeScript.
 - 🌍 Looking to collaborate on beautiful, engaging and functional projects for the internet.
