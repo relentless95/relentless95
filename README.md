@@ -4,7 +4,7 @@
 - 👨🏾‍💻 Currently deepening my knowledge of TypeScript and learning docker.
 - 🌍 Looking to collaborate on beautiful, engaging and functional projects for the internet.
 
--  ![image](https://media.giphy.com/media/wvQIqJyNBOCjK/giphy.gif)
+<!----  ![image](https://media.giphy.com/media/wvQIqJyNBOCjK/giphy.gif)--->
   
 <!-- -    sometimes i do this <img src="https://media.giphy.com/media/wvQIqJyNBOCjK/giphy.gif" width="30"> -->
 
