@@ -5,6 +5,8 @@
 - 🌍 Looking to collaborate on beautiful, engaging and functional projects for the internet.
 
 
+// to delete: 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=relentless95&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **relentless95/relentless95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
