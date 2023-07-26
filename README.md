@@ -3,7 +3,10 @@
 - 🧩 Interested in all things Web.
 - 👨🏾‍💻 Currently deepening my knowledge of TypeScript and learning docker.
 - 🌍 Looking to collaborate on beautiful, engaging and functional projects for the internet.
--    sometimes i do this <img src="https://media.giphy.com/media/wvQIqJyNBOCjK/giphy.gif" width="30">
+
+-  ![image](https://media.giphy.com/media/wvQIqJyNBOCjK/giphy.gif)
+  
+<!-- -    sometimes i do this <img src="https://media.giphy.com/media/wvQIqJyNBOCjK/giphy.gif" width="30"> -->
 
 
 <!--
